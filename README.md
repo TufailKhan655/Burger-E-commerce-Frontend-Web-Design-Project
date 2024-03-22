@@ -1,3 +1,2 @@
-# Burger-E-commerce-Frontend-Web-Design-Project
-# This E-commerce website design is developed by using tailwind css and javascript
-# It's fully resposive for all screens 
+# This a demo Burger E-commerce frontend website design, developed by using tailwind css and javascript
+# It's fully responsive for all screens 
